@@ -1,0 +1,5 @@
+OrderID,CustomerName,Amount,OrderDate
+101,  juan perez ,150.50,2026-01-10
+102,MARIA GOMEZ,  200.00 ,10/01/2026
+103,  carlos ruiz,invalid_price,2026-01-12
+104,ana lopez,350.75,2026-01-13
