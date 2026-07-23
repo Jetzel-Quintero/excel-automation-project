@@ -1,0 +1,6 @@
+TransactionID,Category,Product,Revenue,Cost,TransactionDate
+TX-001,Technology,Laptop,1200.00,800.00,2026-02-01
+TX-002,Office Supplies,Desk Chair,250.00,120.00,2026-02-02
+TX-003,Technology,Monitor,450.00,300.00,2026-02-03
+TX-004,Furniture,Bookshelf,300.00,180.00,2026-02-04
+TX-005,Office Supplies,Printer,150.00,90.00,2026-02-05
